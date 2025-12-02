@@ -4,6 +4,8 @@ This repository contains the source code for the City Glazing company website, a
 
 Completed City Glazing website. Fully functional, responsive, and visually polished. Built with HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX, Revolution Slider, Owl Carousel, and Cube Portfolio. Ready for deployment.
 
+https://demo.maxoft.ca/
+
 ## Description
 
 The City Glazing website was built to provide a modern, user-friendly experience for potential clients. It features:
